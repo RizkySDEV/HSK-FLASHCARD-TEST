@@ -1,0 +1,242 @@
+[
+  {
+    "id": "001",
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "meaning": "Saya / Aku",
+    "example": "我是学生。",
+    "examplePinyin": "Wǒ shì xuésheng."
+  },
+  {
+    "id": "002",
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "meaning": "Kamu",
+    "example": "你好吗？",
+    "examplePinyin": "Nǐ hǎo ma?"
+  },
+  {
+    "id": "003",
+    "hanzi": "他",
+    "pinyin": "tā",
+    "meaning": "Dia (Laki-laki)",
+    "example": "他是我的老师。",
+    "examplePinyin": "Tā shì wǒ de lǎoshī."
+  },
+  {
+    "id": "004",
+    "hanzi": "她",
+    "pinyin": "tā",
+    "meaning": "Dia (Perempuan)",
+    "example": "她漂亮吗？",
+    "examplePinyin": "Tā piàoliang ma?"
+  },
+  {
+    "id": "005",
+    "hanzi": "我们",
+    "pinyin": "wǒmen",
+    "meaning": "Kami / Kita",
+    "example": "我们去北京。",
+    "examplePinyin": "Wǒmen qù Běijīng."
+  },
+  {
+    "id": "006",
+    "hanzi": "你们",
+    "pinyin": "nǐmen",
+    "meaning": "Kalian",
+    "example": "你们吃什么？",
+    "examplePinyin": "Nǐmen chī shénme?"
+  },
+  {
+    "id": "007",
+    "hanzi": "他们",
+    "pinyin": "tāmen",
+    "meaning": "Mereka",
+    "example": "他们是好朋友。",
+    "examplePinyin": "Tāmen shì hǎo péngyou."
+  },
+  {
+    "id": "008",
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "meaning": "Ini",
+    "example": "这是我的书。",
+    "examplePinyin": "Zhè shì wǒ de shū."
+  },
+  {
+    "id": "009",
+    "hanzi": "那",
+    "pinyin": "nà",
+    "meaning": "Itu",
+    "example": "那是一只猫。",
+    "examplePinyin": "Nà shì yì zhī māo."
+  },
+  {
+    "id": "010",
+    "hanzi": "一",
+    "pinyin": "yī",
+    "meaning": "Satu",
+    "example": "我有一个哥哥。",
+    "examplePinyin": "Wǒ yǒu yí ge gēge."
+  },
+  {
+    "id": "011",
+    "hanzi": "二",
+    "pinyin": "èr",
+    "meaning": "Dua",
+    "example": "现在二点。",
+    "examplePinyin": "Xiànzài èr diǎn."
+  },
+  {
+    "id": "012",
+    "hanzi": "三",
+    "pinyin": "sān",
+    "meaning": "Tiga",
+    "example": "我买了三个苹果。",
+    "examplePinyin": "Wǒ mǎi le sān ge píngguǒ."
+  },
+  {
+    "id": "013",
+    "hanzi": "四",
+    "pinyin": "sì",
+    "meaning": "Empat",
+    "example": "他四岁了。",
+    "examplePinyin": "Tā sì suì le."
+  },
+  {
+    "id": "014",
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "meaning": "Lima",
+    "example": "我有五块钱。",
+    "examplePinyin": "Wǒ yǒu wǔ kuài qián."
+  },
+  {
+    "id": "015",
+    "hanzi": "六",
+    "pinyin": "liù",
+    "meaning": "Enam",
+    "example": "那儿有六个人。",
+    "examplePinyin": "Nàr yǒu liù ge rén."
+  },
+  {
+    "id": "016",
+    "hanzi": "七",
+    "pinyin": "qī",
+    "meaning": "Tujuh",
+    "example": "今天是七月七号。",
+    "examplePinyin": "Jīntiān shì qī yuè qī hào."
+  },
+  {
+    "id": "017",
+    "hanzi": "八",
+    "pinyin": "bā",
+    "meaning": "Delapan",
+    "example": "他八点去学校。",
+    "examplePinyin": "Tā bā diǎn qù xuéxiào."
+  },
+  {
+    "id": "018",
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "meaning": "Sembilan",
+    "example": "九点了。",
+    "examplePinyin": "Jiǔ diǎn le."
+  },
+  {
+    "id": "019",
+    "hanzi": "十",
+    "pinyin": "shí",
+    "meaning": "Sepuluh",
+    "example": "我要十个。",
+    "examplePinyin": "Wǒ yào shí ge."
+  },
+  {
+    "id": "020",
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "meaning": "Cinta / Suka",
+    "example": "我爱我妈妈。",
+    "examplePinyin": "Wǒ ài wǒ māma."
+  },
+  {
+    "id": "021",
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "meaning": "Minum",
+    "example": "我想喝水。",
+    "examplePinyin": "Wǒ xiǎng hē shuǐ."
+  },
+  {
+    "id": "022",
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "meaning": "Makan",
+    "example": "你吃什么？",
+    "examplePinyin": "Nǐ chī shénme?"
+  },
+  {
+    "id": "023",
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "meaning": "Melihat / Membaca",
+    "example": "我看电视。",
+    "examplePinyin": "Wǒ kàn diànshì."
+  },
+  {
+    "id": "024",
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "meaning": "Mendengar",
+    "example": "我听音乐。",
+    "examplePinyin": "Wǒ tīng yīnyuè."
+  },
+  {
+    "id": "025",
+    "hanzi": "说",
+    "pinyin": "shuō",
+    "meaning": "Berbicara",
+    "example": "你会说话吗？",
+    "examplePinyin": "Nǐ huì shuōhuà ma?"
+  },
+  {
+    "id": "026",
+    "hanzi": "读",
+    "pinyin": "dú",
+    "meaning": "Membaca (Nyaring)",
+    "example": "我读汉语书。",
+    "examplePinyin": "Wǒ dú Hànyǔ shū."
+  },
+  {
+    "id": "027",
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "meaning": "Menulis",
+    "example": "我写汉字。",
+    "examplePinyin": "Wǒ xiě Hànzì."
+  },
+  {
+    "id": "028",
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "meaning": "Dipanggil / Bernama",
+    "example": "我叫 Rizky。",
+    "examplePinyin": "Wǒ jiào Rizky."
+  },
+  {
+    "id": "029",
+    "hanzi": "去",
+    "pinyin": "qù",
+    "meaning": "Pergi",
+    "example": "我去商店。",
+    "examplePinyin": "Wǒ qù shāngdiàn."
+  },
+  {
+    "id": "030",
+    "hanzi": "来",
+    "pinyin": "lái",
+    "meaning": "Datang",
+    "example": "他来我家。",
+    "examplePinyin": "Tā lái wǒ jiā."
+  }
+]
