@@ -5,6 +5,7 @@ export interface HSKItem {
   meaning: string;
   example: string;
   examplePinyin: string;
+  exampleMeaning: string;
 }
 
 export interface CardState {
@@ -14,4 +15,4 @@ export interface CardState {
   stability: number; // for simpler spaced repetition
 }
 
-export type ViewMode = 'flashcard' | 'quiz' | 'stats';
+export type ViewMode = 'flashcard' | 'quiz' | 'stats' | 'calendar';

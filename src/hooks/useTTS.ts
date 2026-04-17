@@ -1,7 +1,7 @@
 import { useCallback } from 'react';
 
 export function useTTS() {
-  const speak = useCallback((text: string) => {
+  const speak = useCallback((text: string, rate: number = 0.9) => {
     if (!('speechSynthesis' in window)) {
       console.warn('Speech synthesis not supported');
       return;
@@ -12,7 +12,7 @@ export function useTTS() {
 
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = 'zh-CN';
-    utterance.rate = 0.9;
+    utterance.rate = rate;
     
     // Find a proper Chinese voice if possible
     const voices = window.speechSynthesis.getVoices();
